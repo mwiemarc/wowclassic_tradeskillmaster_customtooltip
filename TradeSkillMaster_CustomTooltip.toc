@@ -1,7 +1,7 @@
 ## Interface: 11302
-## Title: TradeSkillMaster [Custom Tooltip]
+## Title: |cff00fe00TradeSkillMaster_CustomTooltip|r
 ## Author: mwiemarc aka Maxhealth-Venoxis
-## Version: 0.0.1-alpha
+## Version: 0.0.2-alpha
 ## SavedVariables: TSMCT_TIMESTAMPS
 ## Dependency: TradeSkillMaster, Auctionator
 
