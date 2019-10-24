@@ -1,0 +1,9 @@
+## Interface: 11302
+## Title: TradeSkillMaster [Custom Tooltip]
+## Author: mwiemarc aka Maxhealth-Venoxis
+## Version: 0.0.1-alpha
+## SavedVariables: TSMCT_TIMESTAMPS
+
+util.lua
+core.lua
+events.lua
