@@ -3,6 +3,7 @@
 ## Author: mwiemarc aka Maxhealth-Venoxis
 ## Version: 0.0.1-alpha
 ## SavedVariables: TSMCT_TIMESTAMPS
+## Dependency: TradeSkillMaster, Auctionator
 
 util.lua
 core.lua
